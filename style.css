@@ -1,0 +1,201 @@
+body{
+    margin: 0;
+    background-color: rgba(40, 17, 70, 0.918);
+}
+
+.top-background{
+    background-color: rgb(156, 119, 241);
+    background-size: 30px;
+    background-repeat:no-repeat;
+    background-position:center;
+}
+
+.menu{
+    text-align: center;
+    color: white;
+    font-size: 30px;
+}
+
+/*.menu-ul{
+    padding: 20px;
+}*/
+
+.menu-ul li{
+    display: inline-block;
+    font-variant: none;
+    padding: 10px 30px;
+}
+
+/*.menu-ul li{
+    display: inline-block;
+    font-variant: none;
+    letter-spacing: 1px;
+    padding: 10px 30px;
+}*/
+
+a{
+    border-bottom: 3px solid transparent;
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+}
+
+/*a:hover{
+    border-bottom: 3px solid white;
+}/*
+
+/*.sticky {
+    background: rgb(49, 38, 77);
+    position: fixed;
+    width: 100%;
+    z-index: 100;
+}*/
+
+/*.sticky ul{
+    padding: 0;
+    margin: 10px;
+}*/
+
+.page-title{
+    text-align: left;
+    font-size: 30px;
+    padding: 150px;
+    color: white;
+    letter-spacing: 3px;
+    text-shadow: 0 0 9px rgb(14, 11, 9);
+}
+
+/*.description, .title{
+    font-variant: none;
+    font-size: 30px;
+    margin: 4px;
+}*/
+
+/*.page-blocks{
+    text-align: left;
+    margin-top: 50px;
+}*/
+
+
+.logo{
+    margin: 350px;
+}
+
+/*.more-designs-btn{
+    background: transparent;
+    border: 2px solid rgb(156, 119, 241);
+    color: rgb(156, 119, 241);
+    font-weight: 300;
+    padding: 10px;
+    margin: 10px;
+    letter-spacing: 1px;
+}*/
+
+/*.more-designs-btn:hover{
+    background: rgb(156, 119, 241);
+    color: white;
+    transition: all 0.5s;
+}*/
+
+/*.flex-block{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    overflow: hidden;
+}*/
+
+/*.why-us-flex-item{
+    background: rgb(156, 119, 241);
+    color: white;
+    width: 20%;
+    padding: 40px;
+    margin: 20px;
+}*/
+
+/*.block-label{
+    font-variant: small-caps;
+    font-size: 20px;
+    margin-bottom: 20px;
+    letter-spacing: 5px;
+}*/
+
+/*.block-description{
+    text-align: justify;
+}*/
+
+/*.block-number{
+    font-weight: bold;
+    font-size: 50px;
+    padding: 20px;
+}*/
+
+/*.appointment-flex-item{
+    background: rgb(156, 119, 241);
+    color: white;
+    height: 450px;
+    width: 45%;
+    padding: 0px;
+    margin: 20px 0px;
+    overflow: hidden;
+}*/
+
+/*.appointment-text{
+    padding: 200px 20px;
+    font-size: 50px;
+    background: rgba(0, 0, 0, 0.5);
+}*/
+
+
+/*.appointment-form input, textarea{
+    width: 60%;
+    max-width: 60%;
+    padding: 10px;
+    margin-bottom: 20px;
+    outline: none;
+    text-align: center;
+    color: rgb(156, 119, 241);
+    font-size: 16px;
+}*/
+
+/*.appointment-form textarea{
+    height: 100px;
+    max-height: 100px;
+    max-width: 60%;
+    overflow-y: scroll;
+    align-items: center;
+}*/
+
+
+.footer{
+    background: rgb(156, 119, 241);
+    text-align: center;
+    padding: 20px;
+    margin-top: 90px;
+}
+
+.locations{
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+    display: inline-block;
+    min-width: 27%;
+    letter-spacing: 4px;
+    font-variant: small-caps;
+    padding: 20px;
+}
+
+.address{
+    font-weight: lighter;
+    padding: 20px;
+    font-size: 25px;
+}
+
+.fa {
+    font-size: 30px;
+    text-align: center;
+    text-decoration: none;
+}
+
+/*.title{
+    letter-spacing: 5px;
+    color:rgb(228, 181, 120);
+}*/
